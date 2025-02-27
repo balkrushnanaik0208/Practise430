@@ -8,16 +8,11 @@ public class CompareTwoNum {
         System.out.println("Enter Second Number");
         int b = sc.nextInt();
 
-        if(a>b)
-        {
+        if (a > b) {
             System.out.println("A is greater than B");
-        }
-        else if (a==b)
-        {
+        } else if (a == b) {
             System.out.println("A and B are equal");
-        }
-        else
-        {
+        } else {
             System.out.println("B is greater than A");
         }
     }
