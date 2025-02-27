@@ -20,5 +20,6 @@ public class CompareTwoNum {
         {
             System.out.println("B is greater than A");
         }
+        System.out.println("changes");
     }
 }
