@@ -11,8 +11,6 @@ public class CelsiusToFahrenheit {
         System.out.println("Fahrenheit: " + fahrenheit);
 
         scanner.close();
-
-        System.out.println("Changes made");
     }
 
 }
