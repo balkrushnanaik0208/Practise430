@@ -19,7 +19,11 @@ public class AbsoluteValueNumber {
 
         scanner.close();
         System.out.println();
+<<<<<<< HEAD
         System.out.println("Swapnil");
         
+=======
+        System.out.println("Balkrushna");
+>>>>>>> Balkrushna
     }
 }
