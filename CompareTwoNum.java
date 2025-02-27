@@ -15,6 +15,6 @@ public class CompareTwoNum {
         } else {
             System.out.println("B is greater than A");
         }
-        System.out.println("Balkrushna");
+        
     }
 }
